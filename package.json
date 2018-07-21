@@ -1,0 +1,12 @@
+{
+  "name": "hobby",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node hobbyServer.js"
+  },
+  "dependencies": {
+    "express": "^4.x",
+    "lodash": "^4.x",
+  }
+}
